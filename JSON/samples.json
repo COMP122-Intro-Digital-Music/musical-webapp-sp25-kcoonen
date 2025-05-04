@@ -1,1 +1,15 @@
-[]
+[{
+  "name": "bottlebeat",
+  "file": "samples/bottle.mp3",
+  "bpm": "140",
+  "loop": "1n",
+  "grain": "0.001",
+  "overlap": 0.01
+ } {
+  "name": "Untitled",
+  "file": "samples/bubbles_cut.mp3",
+  "bpm": 120,
+  "loop": "1m",
+  "grain": 0.04,
+  "overlap": 0.01
+ }]
